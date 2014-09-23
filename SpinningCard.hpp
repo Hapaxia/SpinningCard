@@ -2,9 +2,11 @@
 
 // hx::Misc::SpinningCard
 
+// by Hapax (http://github.com/hapaxia)
+
 // Requires:
 //   C++11
-//   SFML (http://sfml-dev.org/)
+//   SFML (http://sfml-dev.org)
 
 #ifndef HX_MISC_SPINNINGCARD_HPP
 #define HX_MISC_SPINNINGCARD_HPP
