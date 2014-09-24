@@ -10,4 +10,6 @@ It can spin either horizontally (around the y axis - default) or vertically (aro
 
 The depth of the fake perspective can be specified, which alters the strength of the effect. At a depth of zero, the effect "spins" in a similar way to just changing the width (or height if spinning vertically)
 
+Simple video example available at youtube.com/watch?v=u428K0xyorI
+
 Requires C++11 and SFML (sfml-dev.org)
