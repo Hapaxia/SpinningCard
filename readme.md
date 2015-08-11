@@ -1,8 +1,11 @@
 Spinning Card
 =============
 
-by Hapax (http://github.com/hapaxia)
+by Hapax
 2014 Golden Eagle Software
+
+**The follow-up (successor) to this class is Sprite3d.  
+Both SpinningCard and Sprite3d are available in [Selba Ward](https://github.com/Hapaxia/SelbaWard/wiki)**
 
 SpinningCard is a class that takes an SFML sprite, mimics it using an SFML vertex array, then manipulates it using faux-3D so that it is at an angle.
 
